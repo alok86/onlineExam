@@ -1,0 +1,19 @@
+{
+  "name": "onlineexam",
+  "version": "1.0.0",
+  "description": "this project is about to help to create examination paper , placing assignment , evaluation of test ect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alok86/testOnline.git"
+  },
+  "author": "alok seth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alok86/testOnline/issues"
+  },
+  "homepage": "https://github.com/alok86/testOnline#readme"
+}
